@@ -34,7 +34,7 @@ div.anchor-tags
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 13px;
+  font-size: 16px;
   color: #4a4a4a;
   line-height: 1.6;
 }
@@ -3764,7 +3764,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 /* ----------------------------------------------------- */
 .hero-unit-animated {
   padding: 100px 0;
-  color: #fff;
+  color: #504949;
   background-image: url('/assets/me2.jpg');
   background-repeat: no-repeat;
   background-position: center -75px;
@@ -3773,7 +3773,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   font-family: "Roboto Condensed", sans-serif;
   font-size: 42px;
   font-weight: 300;
-  color: #fff;
+  color: #504949;
 }
 .hero-unit-animated .lead {
   font-size: 24px;
