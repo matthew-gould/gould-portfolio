@@ -6004,7 +6004,7 @@ ul.sidebar-nav ul.submenu li:first-child a {
   font-size: 28px;
 }
 .multiple-pricing-table .pricing-badge {
-  background-image: url('../img/badge.png?1411987447');
+  background-image: url('/assets/badge.png');
   background-repeat: no-repeat;
   width: 100px;
   height: 100px;
